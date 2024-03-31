@@ -1,6 +1,6 @@
 # https://registry.terraform.io/providers/hashicorp/google/latest/docs
 provider "google" {
-  project = "wayto_devops"
+  project = "WaytoDevOps"
   region  = "us-west1"
 }
 
